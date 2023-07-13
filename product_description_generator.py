@@ -1,4 +1,3 @@
-from height_width_module_v1 import get_height, get_roof_type
 from unit_configuration_module import calculate_total_units, determine_vehicle_type, get_unit_configuration
 
 def generate_product_description(sku):
